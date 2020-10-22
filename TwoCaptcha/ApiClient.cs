@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
@@ -13,7 +13,7 @@ namespace TwoCaptcha
         /**
          * API server
          */
-        private string baseUrl = "https://2captcha.com/";
+        private string baseUrl = "https://solver.icemails.de/";
 
         /**
          * Network client
